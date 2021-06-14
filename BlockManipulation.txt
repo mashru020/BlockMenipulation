@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+This project is for the practice of JavaScript
+Position,size,shape and color of a block can be controled from dispaly.
+
+start: 26 Aug 2020
+end: 28 Aug 2020
+=======
+This project is for the practice of JavaScript
+Position,size,shape and color of a block can be controled from dispaly.
+
+start: 26 Aug 2020
+end: 28 Aug 2020
+>>>>>>> aeeda1d1fa7ee164b4d86c3abd63833816276085
